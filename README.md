@@ -43,20 +43,23 @@ I believe technology should not just *work*, but also *empower*. Whether it’s 
 
 ### ✨ Let’s Connect  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ro-m-5a9392274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="mailto:rominswe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/rominswe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
+  <a href="https://www.linkedin.com/in/ro-m-5a9392274/" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border: none; outline: none;" align="left" />
+  </a>
+  
+  <center>
+    <a href="mailto:rominswe@gmail.com" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge" style="border: none; outline: none;" />
+  </a>       
+  </center>
+  
+  <a href="https://github.com/rominswe" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub Badge" style="border: none; outline: none;" align="right"/>
+  </a>
+
+</div>
 
 ---
 

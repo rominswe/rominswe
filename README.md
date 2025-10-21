@@ -45,7 +45,7 @@ I believe technology should not just *work*, but also *empower*. Whether it’s 
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/ro-m-5a9392274/" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/ro-swe/" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border: none; outline: none;" align="left" />
   </a>
   

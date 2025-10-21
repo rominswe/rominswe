@@ -39,6 +39,7 @@ I believe technology should not just *work*, but also *empower*. Whether it’s 
 - 🧩 **Curiosity:** Always learning — from software methodologies to the development of AI.  
 - 💡 **Purpose:** Using creativity and analytics together to solve meaningful problems.  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rominswe)](https://github.com/rominswe/github-profile-trophy.git)
 ---
 
 ### ✨ Let’s Connect  

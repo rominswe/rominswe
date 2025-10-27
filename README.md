@@ -130,8 +130,6 @@ I believe technology should not just *work*, but also *empower*. Whether it’s 
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rominswe)](https://github.com/rominswe/github-profile-trophy.git)
-
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rominswe&" alt="rominswe" /></p>
 
 <p align="center">

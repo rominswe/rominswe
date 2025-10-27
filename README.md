@@ -5,30 +5,97 @@
   <em>Data-Driven Creator • AI Developer • Lifelong Learner</em>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rominswe&label=Profile%20views&color=0e75b6&style=flat" alt="rominswe" /> </p>
+
 ---
 
-### 🧭 About Me  
+### 🙋‍♂️ About Me  
 
 I’m a **data science and technology enthusiast** who enjoys turning complex ideas into **useful, inclusive, and visually engaging solutions**.   
 I believe technology should not just *work*, but also *empower*. Whether it’s helping people navigate the world, understand data, or make better decisions — I want my work to make an impact that feels human.  
 
 ---
 
-### 🧠 What I’m Working On  
+###
 
-- 🚀 Developing an **AI-powered navigation system** for **visually impaired users**, combining **object detection**, **audio feedback**, and **real-time tracking**.  
-- 📊 Exploring **data visualization** and **analytics** — transforming raw data into meaningful insights that tell stories.  
-- 🤝 Learning **new technologies** that will be useful to the user.  
+<h3 align="left">🌐 Languages</h3>
+
+###
+<div align="left">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominswe&show_icons=true&locale=en&layout=compact" alt="rominswe" /></p>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
 
 ---
 
-### 🛠️ Technologies I Use  
+###
 
-#### 💻 Programming & Development  
-`Python` • `Java` • `C++` • `JavaScript` 
+<h3 align="left">⚙️ Full Stack</h3>
+
+###
+<div align ="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+</div>
+
+---
+
+###
+
+<h3 align="left">🫙 Database</h3>
+
+###
+
+<div align ="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+---
+###
+
+<h3 align="left">🧑‍💻 DevOps</h3>
+
+###
+
+<div align ="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+</div>
+
+---
 
 #### 🧩 AI & Data Science  
-`OpenCV` • `Pandas` • `NumPy` • `Matplotlib` • `Jupyter Notebook` • `Chaquopy`
+
+<div align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
+</div>
 
 ---
 
@@ -37,9 +104,8 @@ I believe technology should not just *work*, but also *empower*. Whether it’s 
 - 🌍 **Inclusivity:** Building technology that works for everyone, not just the majority.  
 - 🔍 **Clarity:** Turning data and design into tools people can understand at a glance.  
 - 🧩 **Curiosity:** Always learning — from software methodologies to the development of AI.  
-- 💡 **Purpose:** Using creativity and analytics together to solve meaningful problems.  
+- 💡 **Purpose:** Using creativity and analytics together to solve meaningful problems.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rominswe)](https://github.com/rominswe/github-profile-trophy.git)
 ---
 
 ### ✨ Let’s Connect  
@@ -64,21 +130,10 @@ I believe technology should not just *work*, but also *empower*. Whether it’s 
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rominswe)](https://github.com/rominswe/github-profile-trophy.git)
+
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rominswe&" alt="rominswe" /></p>
+
 <p align="center">
   <sub>⚡ “Blending data, design, and purpose to build technology that matters.” ⚡</sub>
 </p>
-
-<!--
-**rominswe/rominswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

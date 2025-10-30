@@ -3,37 +3,37 @@
 <g id="dots" fill="#FFFFFF">
 <circle cx="60.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="1.00"/>
 <circle cx="110.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="1.00"/>
-<circle cx="160.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="1.00"/>
-<circle cx="210.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="1.00"/>
-<circle cx="260.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="1.00"/>
-<circle cx="310.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="0.93"/>
-<circle cx="360.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="0.83"/>
+<circle cx="160.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="0.99"/>
+<circle cx="210.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="0.88"/>
+<circle cx="260.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="0.81"/>
+<circle cx="310.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="0.81"/>
+<circle cx="360.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="0.88"/>
 </g>
 <g id="ghosts">
-<g transform="translate(240.0,26.6)">
+<g transform="translate(240.0,37.5)">
 <path d="M-10,6 Q-10,-8 0,-12 Q10,-8 10,6 V10 Q5,8 0,10 Q-5,8 -10,10 Z" fill="#FF6666" />
 <circle cx="-4" cy="-4" r="3" fill="#fff"/><circle cx="4" cy="-4" r="3" fill="#fff"/>
 </g>
-<g transform="translate(262.0,32.8)">
+<g transform="translate(262.0,27.0)">
 <path d="M-10,6 Q-10,-8 0,-12 Q10,-8 10,6 V10 Q5,8 0,10 Q-5,8 -10,10 Z" fill="#66CCFF" />
 <circle cx="-4" cy="-4" r="3" fill="#fff"/><circle cx="4" cy="-4" r="3" fill="#fff"/>
 </g>
-<g transform="translate(284.0,36.6)">
+<g transform="translate(284.0,31.9)">
 <path d="M-10,6 Q-10,-8 0,-12 Q10,-8 10,6 V10 Q5,8 0,10 Q-5,8 -10,10 Z" fill="#FFB86B" />
 <circle cx="-4" cy="-4" r="3" fill="#fff"/><circle cx="4" cy="-4" r="3" fill="#fff"/>
 </g>
-<g transform="translate(306.0,26.3)">
+<g transform="translate(306.0,37.1)">
 <path d="M-10,6 Q-10,-8 0,-12 Q10,-8 10,6 V10 Q5,8 0,10 Q-5,8 -10,10 Z" fill="#BDBDFF" />
 <circle cx="-4" cy="-4" r="3" fill="#fff"/><circle cx="4" cy="-4" r="3" fill="#fff"/>
 </g>
 </g>
 <g id="pacman">
-<path d="M 356.96,50.00 L 371.85,44.15 A 16,16 0 0,1 371.85,55.85 Z" fill="#FFDF00" stroke="none" />
-<circle cx="362.96" cy="44.00" r="2" fill="#000" />
+<path d="M 77.60,50.00 L 92.70,44.71 A 16,16 0 0,1 92.70,55.29 Z" fill="#FFDF00" stroke="none" />
+<circle cx="83.60" cy="44.00" r="2" fill="#000" />
 
       <animateTransform xlink:href="#pacman" attributeName="transform" type="translate"
                         from="0 0" to="0 0" dur="0.0s" repeatCount="1"/>
     
 </g>
-<text x="10" y="92" fill="#888" font-family="monospace" font-size="10">Updated: 2025-10-30 10:32:48 UTC</text>
+<text x="10" y="92" fill="#888" font-family="monospace" font-size="10">Updated: 2025-10-30 10:34:40 UTC</text>
 </svg>

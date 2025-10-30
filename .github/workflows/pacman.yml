@@ -7,7 +7,7 @@ name: Update Pac-Man SVG
 
 on:
   schedule:
-    - cron: '0 0 */3 * *'  # every 72 hours (once every 3 days)
+    - cron: '*/30 * * * *'  # every 30 minutes (adjust as needed)
   workflow_dispatch:       # manual trigger in Actions tab
   push:
     branches:

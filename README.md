@@ -131,5 +131,6 @@ I believe technology should not just *work*, but also *empower*. Whether it’s 
 ---
 
 <p align="center">
+  ![Pac-Man Animation](./pacman.svg)
   <sub>⚡ “Blending data, design, and purpose to build technology that matters.” ⚡</sub>
 </p>

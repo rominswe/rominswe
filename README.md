@@ -6,13 +6,8 @@
 
 ---  
 
-###
-
-<h3 align="left">🙋‍♂️ About Me</h3>
-
-###
-<br>
-- I’m a **data science and technology enthusiast** who enjoys turning complex ideas into **useful, inclusive, and visually engaging solutions**.   
+#### 🙋‍♂️ About Me
+- I’m a **data science and technology enthusiast** who enjoys turning complex ideas into **useful, inclusive, and visually engaging solutions**.
 - I believe technology should not just *work*, but also *empower*. Whether it’s helping people navigate the world, understand data, or make better decisions.
 - I want my work to make an impact that feels human.  
 

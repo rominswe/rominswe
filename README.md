@@ -27,6 +27,7 @@
   <img width="120" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="120" />
+  <br><br><br>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
